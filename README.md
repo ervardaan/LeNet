@@ -33,9 +33,7 @@ go to CNN/Scripts
 
 now check existence of tqdm using
 
-```pip show tqdm
-
-pip list```
+```pip show tqdm\npip list```
 
 
 
