@@ -1,7 +1,7 @@
 # LeNet
 LeNet CNN for homework 7
 
-running and installing code-
+## running and installing code-
 
 preconditions:pip,python,pandas shold be installed on system
 
@@ -36,6 +36,12 @@ now check existence of tqdm using
 ```pip show tqdm```
 
 ```pip list```
+
+## downloading data
+
+### run train_miniplaces.py directly if server of database is unning
+
+### when server is offline
 
 
 
