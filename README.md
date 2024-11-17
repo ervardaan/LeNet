@@ -1,4 +1,7 @@
 # LeNet
+
+![LeNet-5 Architecture](https://upload.wikimedia.org/wikipedia/commons/3/35/LeNet-5_architecture.svg "LeNet-5 Architecture")
+
 LeNet CNN for homework 7
 
 ## running and installing code-
